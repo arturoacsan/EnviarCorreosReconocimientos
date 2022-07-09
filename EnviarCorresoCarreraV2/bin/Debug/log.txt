@@ -1,0 +1,380 @@
+--------------------------------------------
+ITEM - Adán Verdugo,adanverdugo_k+hotmail.com
+NOMBRE - Adán Verdugo
+CORREO - adanverdugo_k@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Adán Verdugo,adanverdugo_k+hotmail.com.png'.
+--------------------------------------------
+ITEM - Adly Gpe. Chua,adlyquintero+gmail.com
+NOMBRE - Adly Gpe. Chua
+CORREO - adlyquintero@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Adly Gpe. Chua,adlyquintero+gmail.com.png'.
+--------------------------------------------
+ITEM - Adriana Valenzuela,adriana.valenzuela+itticanon.com
+NOMBRE - Adriana Valenzuela
+CORREO - adriana.valenzuela@itticanon.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Adriana Valenzuela,adriana.valenzuela+itticanon.com.png'.
+--------------------------------------------
+ITEM - Alejandro Guirado,dianamariaga+gmai.com
+NOMBRE - Alejandro Guirado
+CORREO - dianamariaga@gmai.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Alejandro Guirado,dianamariaga+gmai.com.png'.
+--------------------------------------------
+ITEM - Alejandro Salas,1170009+unav.edu.mx
+NOMBRE - Alejandro Salas
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Alejandro Salas,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Amada Dyck,amadadyck62+gmail.com
+NOMBRE - Amada Dyck
+CORREO - amadadyck62@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Amada Dyck,amadadyck62+gmail.com.png'.
+--------------------------------------------
+ITEM - Amy Acuña,ismari.acuna212170+potros.itson.edu.mx
+NOMBRE - Amy Acuña
+CORREO - ismari.acuna212170@potros.itson.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Amy Acuña,ismari.acuna212170+potros.itson.edu.mx.png'.
+--------------------------------------------
+ITEM - Aurelia Coronado,1170009+unav.edu.mx
+NOMBRE - Aurelia Coronado
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Aurelia Coronado,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Belén Salas Morales,1170009+unav.edu.mx
+NOMBRE - Belén Salas Morales
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Belén Salas Morales,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Dadeli Salomón,adanverdugo_k+hotmail.com
+NOMBRE - Dadeli Salomón
+CORREO - adanverdugo_k@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Dadeli Salomón,adanverdugo_k+hotmail.com.png'.
+--------------------------------------------
+ITEM - Danna Paola Antúnez Alcántar,antunezdan24+gmail.com
+NOMBRE - Danna Paola Antúnez Alcántar
+CORREO - antunezdan24@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Danna Paola Antúnez Alcántar,antunezdan24+gmail.com.png'.
+--------------------------------------------
+ITEM - Diana María Guirado Aguirre,dianamariaga+gmai.com
+NOMBRE - Diana María Guirado Aguirre
+CORREO - dianamariaga@gmai.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Diana María Guirado Aguirre,dianamariaga+gmai.com.png'.
+--------------------------------------------
+ITEM - Dora Evelia Reyes Montgomery,Doraevelia_reyes+hotmail.com
+NOMBRE - Dora Evelia Reyes Montgomery
+CORREO - Doraevelia_reyes@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Dora Evelia Reyes Montgomery,Doraevelia_reyes+hotmail.com.png'.
+--------------------------------------------
+ITEM - Elí Ricardo Guirado Vázquez,elieli_52+hotmail.com
+NOMBRE - Elí Ricardo Guirado Vázquez
+CORREO - elieli_52@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Elí Ricardo Guirado Vázquez,elieli_52+hotmail.com.png'.
+--------------------------------------------
+ITEM - Elizabeth Esquivel,esquive76+gmail.com
+NOMBRE - Elizabeth Esquivel
+CORREO - esquive76@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Elizabeth Esquivel,esquive76+gmail.com.png'.
+--------------------------------------------
+ITEM - Eloina Bórquez Bórquez,karlaelizabethaguerohays+gmail.com
+NOMBRE - Eloina Bórquez Bórquez
+CORREO - karlaelizabethaguerohays@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Eloina Bórquez Bórquez,karlaelizabethaguerohays+gmail.com.png'.
+--------------------------------------------
+ITEM - Emiliano Cornejo Esquivel,esquive76+gmail.com
+NOMBRE - Emiliano Cornejo Esquivel
+CORREO - esquive76@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Emiliano Cornejo Esquivel,esquive76+gmail.com.png'.
+--------------------------------------------
+ITEM - Enrique  Fick,musical_doctor+hotmail.com
+NOMBRE - Enrique  Fick
+CORREO - musical_doctor@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Enrique  Fick,musical_doctor+hotmail.com.png'.
+--------------------------------------------
+ITEM - Enrique  Gastélum,1170009+unav.edu.mx
+NOMBRE - Enrique  Gastélum
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Enrique  Gastélum,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Enrique  Villalobos,1170009+unav.edu.mx
+NOMBRE - Enrique  Villalobos
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Enrique  Villalobos,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Evelyn López Dyck,janydyck2000+hotmail.com
+NOMBRE - Evelyn López Dyck
+CORREO - janydyck2000@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Evelyn López Dyck,janydyck2000+hotmail.com.png'.
+--------------------------------------------
+ITEM - Flor Denise Gutiérrez Talamante,fdgt_07+hotmail.com
+NOMBRE - Flor Denise Gutiérrez Talamante
+CORREO - fdgt_07@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Flor Denise Gutiérrez Talamante,fdgt_07+hotmail.com.png'.
+--------------------------------------------
+ITEM - Frania María Flores Ayala,franiaayala+hotmail.com
+NOMBRE - Frania María Flores Ayala
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Frania María Flores Ayala,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Froilan Carrazco,skyclimas+gmail.com
+NOMBRE - Froilan Carrazco
+CORREO - skyclimas@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Froilan Carrazco,skyclimas+gmail.com.png'.
+--------------------------------------------
+ITEM - Gilberto Bernabe Ávila,Gil.b.avila+hotmail.com
+NOMBRE - Gilberto Bernabe Ávila
+CORREO - Gil.b.avila@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Gilberto Bernabe Ávila,Gil.b.avila+hotmail.com.png'.
+--------------------------------------------
+ITEM - Guadalupe León Reyes,Leonreyesguadalupe+gmail.com
+NOMBRE - Guadalupe León Reyes
+CORREO - Leonreyesguadalupe@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Guadalupe León Reyes,Leonreyesguadalupe+gmail.com.png'.
+--------------------------------------------
+ITEM - Guillermo Barron ,Mbarron63+hotmail.com
+NOMBRE - Guillermo Barron 
+CORREO - Mbarron63@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Guillermo Barron ,Mbarron63+hotmail.com.png'.
+--------------------------------------------
+ITEM - Guillermo Peña Enriques,CTMNavojoa+hotmail.com
+NOMBRE - Guillermo Peña Enriques
+CORREO - CTMNavojoa@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Guillermo Peña Enriques,CTMNavojoa+hotmail.com.png'.
+--------------------------------------------
+ITEM - Gustavo  Agüero Bórquez,gborquez+colpac.com.mx
+NOMBRE - Gustavo  Agüero Bórquez
+CORREO - gborquez@colpac.com.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Gustavo  Agüero Bórquez,gborquez+colpac.com.mx.png'.
+--------------------------------------------
+ITEM - Heber Guirado Vázquez,eberation999+gmail.com
+NOMBRE - Heber Guirado Vázquez
+CORREO - eberation999@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Heber Guirado Vázquez,eberation999+gmail.com.png'.
+--------------------------------------------
+ITEM - Isabel Morales,1170009+unav.edu.mx
+NOMBRE - Isabel Morales
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Isabel Morales,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Ismael Pérez,ipersan+gmail.com
+NOMBRE - Ismael Pérez
+CORREO - ipersan@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Ismael Pérez,ipersan+gmail.com.png'.
+--------------------------------------------
+ITEM - Ismael Pérez,piansaca+gmail.com
+NOMBRE - Ismael Pérez
+CORREO - piansaca@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Ismael Pérez,piansaca+gmail.com.png'.
+--------------------------------------------
+ITEM - Ismari Acuña,ismari.acuna212170+potros.itson.edu.mx
+NOMBRE - Ismari Acuña
+CORREO - ismari.acuna212170@potros.itson.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Ismari Acuña,ismari.acuna212170+potros.itson.edu.mx.png'.
+--------------------------------------------
+ITEM - Jorge Martínez,lealmtzjorge+hotmail.com
+NOMBRE - Jorge Martínez
+CORREO - lealmtzjorge@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Jorge Martínez,lealmtzjorge+hotmail.com.png'.
+--------------------------------------------
+ITEM - José Guadalupe Espinosa,franiaayala+hotmail.com
+NOMBRE - José Guadalupe Espinosa
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\José Guadalupe Espinosa,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - José Leonardo Servin Terán,franiaayala+hotmail.com
+NOMBRE - José Leonardo Servin Terán
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\José Leonardo Servin Terán,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Josefina Hays Leyva,josefinahays+hotmail.com
+NOMBRE - Josefina Hays Leyva
+CORREO - josefinahays@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Josefina Hays Leyva,josefinahays+hotmail.com.png'.
+--------------------------------------------
+ITEM - Julieta García,julietcalderon50+gmail.com
+NOMBRE - Julieta García
+CORREO - julietcalderon50@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Julieta García,julietcalderon50+gmail.com.png'.
+--------------------------------------------
+ITEM - Karla Agüero Hays,karlaelizabethaguerohays+gmail.com
+NOMBRE - Karla Agüero Hays
+CORREO - karlaelizabethaguerohays@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Karla Agüero Hays,karlaelizabethaguerohays+gmail.com.png'.
+--------------------------------------------
+ITEM - Liberato Cruz Yocupicio,1170009+unav.edu.mx
+NOMBRE - Liberato Cruz Yocupicio
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Liberato Cruz Yocupicio,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Librada Aguilera,eberation999+gmail.com
+NOMBRE - Librada Aguilera
+CORREO - eberation999@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Librada Aguilera,eberation999+gmail.com.png'.
+--------------------------------------------
+ITEM - Lidia Vázquez,eberation999+gmail.com
+NOMBRE - Lidia Vázquez
+CORREO - eberation999@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Lidia Vázquez,eberation999+gmail.com.png'.
+--------------------------------------------
+ITEM - Liliana López Dyck,lopezdyckbiochem+gmail.com
+NOMBRE - Liliana López Dyck
+CORREO - lopezdyckbiochem@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Liliana López Dyck,lopezdyckbiochem+gmail.com.png'.
+--------------------------------------------
+ITEM - Lourdes Ramírez,eberation999+gmail.com
+NOMBRE - Lourdes Ramírez
+CORREO - eberation999@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Lourdes Ramírez,eberation999+gmail.com.png'.
+--------------------------------------------
+ITEM - Lourdes Rubio Aguilar,lpra1932+gmail.com
+NOMBRE - Lourdes Rubio Aguilar
+CORREO - lpra1932@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Lourdes Rubio Aguilar,lpra1932+gmail.com.png'.
+--------------------------------------------
+ITEM - Luciana Villalobos,1170009+unav.edu.mx
+NOMBRE - Luciana Villalobos
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Luciana Villalobos,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Lucio Avelar,franiaayala+hotmail.com
+NOMBRE - Lucio Avelar
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Lucio Avelar,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Marco Aurelio Pérez ,1140263+unav.edu.mx
+NOMBRE - Marco Aurelio Pérez 
+CORREO - 1140263@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Marco Aurelio Pérez ,1140263+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Marcos Madrigal,adanverdugo_k+hotmail.com
+NOMBRE - Marcos Madrigal
+CORREO - adanverdugo_k@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Marcos Madrigal,adanverdugo_k+hotmail.com.png'.
+--------------------------------------------
+ITEM - María  Robles,adanverdugo_k+hotmail.com
+NOMBRE - María  Robles
+CORREO - adanverdugo_k@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\María  Robles,adanverdugo_k+hotmail.com.png'.
+--------------------------------------------
+ITEM - María Emilia Morales,1170009+unav.edu.mx
+NOMBRE - María Emilia Morales
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\María Emilia Morales,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Martín Eduardo Angulo Pineda,franiaayala+hotmail.com
+NOMBRE - Martín Eduardo Angulo Pineda
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Martín Eduardo Angulo Pineda,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Martina Puente,natipuente+hotmail.com
+NOMBRE - Martina Puente
+CORREO - natipuente@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Martina Puente,natipuente+hotmail.com.png'.
+--------------------------------------------
+ITEM - Melina Guirado,dianamariaga+gmai.com
+NOMBRE - Melina Guirado
+CORREO - dianamariaga@gmai.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Melina Guirado,dianamariaga+gmai.com.png'.
+--------------------------------------------
+ITEM - Melissa Martínez,lealmtzjorge+hotmail.com
+NOMBRE - Melissa Martínez
+CORREO - lealmtzjorge@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Melissa Martínez,lealmtzjorge+hotmail.com.png'.
+--------------------------------------------
+ITEM - Miriam Agüero Bórquez,karlaelizabethaguerohays+gmail.com
+NOMBRE - Miriam Agüero Bórquez
+CORREO - karlaelizabethaguerohays@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Miriam Agüero Bórquez,karlaelizabethaguerohays+gmail.com.png'.
+--------------------------------------------
+ITEM - Omar Flores Muñoz,franiaayala+hotmail.com
+NOMBRE - Omar Flores Muñoz
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Omar Flores Muñoz,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Pilar Angélica Sánchez ,piansaca+gmail.com
+NOMBRE - Pilar Angélica Sánchez 
+CORREO - piansaca@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Pilar Angélica Sánchez ,piansaca+gmail.com.png'.
+--------------------------------------------
+ITEM - Rafael Duarte,franiaayala+hotmail.com
+NOMBRE - Rafael Duarte
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Rafael Duarte,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Raquel Ramírez,musical_doctor+hotmail.com
+NOMBRE - Raquel Ramírez
+CORREO - musical_doctor@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Raquel Ramírez,musical_doctor+hotmail.com.png'.
+--------------------------------------------
+ITEM - Ricardo Guirado,eberation999+gmail.com
+NOMBRE - Ricardo Guirado
+CORREO - eberation999@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Ricardo Guirado,eberation999+gmail.com.png'.
+--------------------------------------------
+ITEM - Roberto Aboyta,raboytiam+hotmail.com
+NOMBRE - Roberto Aboyta
+CORREO - raboytiam@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Roberto Aboyta,raboytiam+hotmail.com.png'.
+--------------------------------------------
+ITEM - Rosa de Pérez,piansaca+gmail.com
+NOMBRE - Rosa de Pérez
+CORREO - piansaca@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Rosa de Pérez,piansaca+gmail.com.png'.
+--------------------------------------------
+ITEM - Rosa Hilda Coronado,1170009+unav.edu.mx
+NOMBRE - Rosa Hilda Coronado
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Rosa Hilda Coronado,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Rosa Isela Duarte,r_m_c_07+hotmail.com
+NOMBRE - Rosa Isela Duarte
+CORREO - r_m_c_07@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Rosa Isela Duarte,r_m_c_07+hotmail.com.png'.
+--------------------------------------------
+ITEM - Rosalia Talamante,r_m_c_07+hotmail.com
+NOMBRE - Rosalia Talamante
+CORREO - r_m_c_07@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Rosalia Talamante,r_m_c_07+hotmail.com.png'.
+--------------------------------------------
+ITEM - Rosario Alberto Delgado,nopasanada+nopasanada,mx
+NOMBRE - Rosario Alberto Delgado,nopasanada+nopasanada
+CORREO - mx
+ERROR - The specified string is not in the form required for an e-mail address.
+--------------------------------------------
+ITEM - Rosario Gastélum,1170009+unav.edu.mx
+NOMBRE - Rosario Gastélum
+CORREO - 1170009@unav.edu.mx
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Rosario Gastélum,1170009+unav.edu.mx.png'.
+--------------------------------------------
+ITEM - Samuel Coronado,samuel_coronado+hotmail.com
+NOMBRE - Samuel Coronado
+CORREO - samuel_coronado@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Samuel Coronado,samuel_coronado+hotmail.com.png'.
+--------------------------------------------
+ITEM - Victoria Martínez,franiaayala+hotmail.com
+NOMBRE - Victoria Martínez
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Victoria Martínez,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Yadira Agüero Bórquez,karlaelizabethaguerohays+gmail.com
+NOMBRE - Yadira Agüero Bórquez
+CORREO - karlaelizabethaguerohays@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Yadira Agüero Bórquez,karlaelizabethaguerohays+gmail.com.png'.
+--------------------------------------------
+ITEM - Yamileth Leyva Martínez,franiaayala+hotmail.com
+NOMBRE - Yamileth Leyva Martínez
+CORREO - franiaayala@hotmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Yamileth Leyva Martínez,franiaayala+hotmail.com.png'.
+--------------------------------------------
+ITEM - Yazmín Amaral Agüero,karlaelizabethaguerohays+gmail.com
+NOMBRE - Yazmín Amaral Agüero
+CORREO - karlaelizabethaguerohays@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Yazmín Amaral Agüero,karlaelizabethaguerohays+gmail.com.png'.
+--------------------------------------------
+ITEM - Arturo Acuña,arturoacsan+gmail.com
+NOMBRE - Arturo Acuña
+CORREO - arturoacsan@gmail.com
+CORREO ENVIADO
+--------------------------------------------
+ITEM - Romelia Marquez,romeliamarquezp+gmail.com
+NOMBRE - Romelia Marquez
+CORREO - romeliamarquezp@gmail.com
+ERROR - Could not find file 'C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Romelia Marquez,romeliamarquezp+gmail.com.png'.

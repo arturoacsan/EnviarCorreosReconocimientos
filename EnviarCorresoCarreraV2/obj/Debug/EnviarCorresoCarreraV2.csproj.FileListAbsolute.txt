@@ -1,0 +1,15 @@
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\IMG\Arturo Acuña,arturoacsan+gmail.com.png
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\DATA\data.json
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\EnviarCorresoCarreraV2.exe.config
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\EnviarCorresoCarreraV2.exe
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\EnviarCorresoCarreraV2.pdb
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.Properties.Resources.resources
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.csproj.CopyComplete
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.exe
+C:\Users\artur\source\repos\EnviarCorresoCarreraV2\EnviarCorresoCarreraV2\obj\Debug\EnviarCorresoCarreraV2.pdb
